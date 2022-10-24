@@ -1,0 +1,22 @@
+{
+  "name": "StoreHouseRefreshControl",
+  "version": "0.1.0",
+  "summary": "A short description of StoreHouseRefreshControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/效桂成/StoreHouseRefreshControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "效桂成": "guicheng.xiao@nexttao.com"
+  },
+  "source": {
+    "git": "https://github.com/效桂成/StoreHouseRefreshControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "StoreHouseRefreshControl/Classes/**/*"
+}
